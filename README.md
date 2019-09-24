@@ -1,1 +1,0 @@
-# mysql-index-test
